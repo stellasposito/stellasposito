@@ -3,7 +3,7 @@
 
 - 👩‍🏫 Atualmente, estou como professora de Tecnologia e Ciências. Ensinando pequenos curiosos a fazer ciência e a programar de maneira divertida. 
 - 📚 Estou em uma trilha de estudos aprendendo mais profundamente SQL e criando novos projetos de Machine Learning para acrescentar ao meu portfólio!
-- 📈 Amo ser professora, mas amo ser Cientista de Dados, portanto, quero levar meus conhecimentos e minhas habilidades como profissional da educação para a área de dados, e é por este motivo que iniciei minha transição de carreira.
+- 📈 Amo ser professora de Ciências, mas também amo ser Cientista de Dados, portanto, quero levar meus conhecimentos e minhas habilidades como cientista para a área de dados, e é por este motivo que iniciei minha transição de carreira.
 
 ##
 
