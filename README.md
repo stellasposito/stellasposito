@@ -1,4 +1,4 @@
-### Olá! Sou a Stella! 👋⭐
+### Olá! Sou a Stella 👋⭐
 
 
 - 👩‍🏫 Atualmente, estou como professora de Tecnologia e Ciências, ensinando pequenos curiosos a fazer ciência e a programar de maneira divertida. 
