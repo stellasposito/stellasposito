@@ -1,9 +1,6 @@
-### Olá! Sou a Stella 👋⭐
+### Hi, there! 👋⭐
 
-
-- 👩‍🏫 Atualmente, estou como professora de Tecnologia e Ciências, ensinando pequenos curiosos a fazer ciência e a programar de maneira divertida. 
-- 📚 Estou em uma trilha de estudos aprendendo mais profundamente Estatística, SQL e criando novos projetos de Machine Learning para acrescentar ao meu portfólio!
-- 📈 Quero levar meus conhecimentos e minhas habilidades como cientista para a área de dados, e é por este motivo que iniciei minha transição de carreira.
+- 📚 I am a Data Scientist passionate about understanding, learning and teaching about the extensive world of data and its applications in our lives.
 
 ##
 
@@ -12,8 +9,12 @@
   <img align="center" alt="Stella-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Stella-R" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   <img align="center" alt="Stella-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Stella-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />          
-                              
+  <img align="center" alt="Stella-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Stella-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Stella-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+          
+
 </div>
 
 ##
