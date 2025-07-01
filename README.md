@@ -3,7 +3,7 @@
 - 📚 I am a Data Scientist passionate about understanding, learning and teaching about the extensive world of data and its applications in our lives.
 
 ##
-### Checkout my website to see other publications: 
+### Check out my website to see what I’ve been working on: besides my GitHub projects, you’ll also find LinkedIn posts, Medium stories, and even a scientific article! Take a look:
 - stellasposito.github.io
 
 ##
