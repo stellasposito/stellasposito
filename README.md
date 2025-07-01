@@ -5,7 +5,7 @@
 ##
 ### Portfolio
 *Check out my website to see what I’ve been working on: besides my GitHub projects, you’ll also find LinkedIn posts, Medium stories, and even a scientific article! Take a look:*
-- stellasposito.github.io
+- **stellasposito.github.io**
 
 ##
 ### What I know:
