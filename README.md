@@ -3,7 +3,9 @@
 - 📚 I am a Data Scientist passionate about understanding, learning and teaching about the extensive world of data and its applications in our lives.
 
 ##
-### Checkout my website to see other publications: stellasposito.github.io
+### Checkout my website to see other publications: 
+- stellasposito.github.io
+
 
 ### What I know:
 <div>
