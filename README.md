@@ -6,7 +6,7 @@
 ### Checkout my website to see other publications: 
 - stellasposito.github.io
 
-
+##
 ### What I know:
 <div>
   <img align="center" alt="Stella-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
