@@ -1,6 +1,6 @@
 ### Hi, there! 👋⭐
 
-- 📚 I am a Data Scientist passionate about understanding, learning and teaching about the extensive world of data and its applications in our lives.
+- *I am a Data Scientist passionate about understanding, learning and teaching about the extensive world of data and its applications in our lives.*
 
 ##
 ### Portfolio
